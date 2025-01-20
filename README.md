@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @mayank-vashishtt  
 
 **🚀 About Me:**  
-I'm a passionate developer specializing in **web and mobile app development**, with expertise in **AI/ML, data structures and algorithms (DSA)**, and a budding interest in **Web3 and Blockchain**. I love creating solutions that make a difference and thrive on learning about emerging technologies.  
+I'm a passionate developer specializing in **Web and App development**, with expertise in **AI/ML, Data Structures and Algorithms (DSA)**, and a budding interest in **Web3 and Blockchain**. I love creating solutions that make a difference and thrive on learning about emerging technologies.  
 
 ---
 
