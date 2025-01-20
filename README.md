@@ -7,8 +7,8 @@ I'm a passionate developer specializing in **web and mobile app development**, w
 
 ## 👀 Interests:  
 - Artificial Intelligence and Machine Learning  
-- Web Development (React, MERN Stack, PHP, WordPress)  
-- Mobile App Development  
+- Web Development (React, MERN Stack, NextJS, Docker)  
+- App Development  
 - Blockchain & Web3 (Beginner Level)  
 - Science and Technology Innovations  
 
@@ -17,7 +17,7 @@ I'm a passionate developer specializing in **web and mobile app development**, w
 ## 🌱 Currently Learning:  
 - Advanced Machine Learning Concepts  
 - Blockchain Development and Smart Contracts  
-- Scaling Web Applications  
+- Web Applications  
 
 ---
 
