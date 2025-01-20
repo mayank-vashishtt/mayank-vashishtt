@@ -28,13 +28,6 @@ I'm a passionate developer specializing in **Web and App development**, with exp
 
 ---
 
-## 📫 How to Reach Me:  
-- **Email:** [mayankvashishtt@gmail.com](mailto:mayankvashishtt@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/mayank-vashisht](#)  
-- **Portfolio:** [mayank-porfolio-rcmn.vercel.app](https://mayank-porfolio-rcmn.vercel.app/)  
-
----
-
 ## 😄 Pronouns:  
 He/Him  
 
