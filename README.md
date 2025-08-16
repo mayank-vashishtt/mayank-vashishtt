@@ -1,11 +1,11 @@
-# 👋 Hi, I’m @mayank-vashishtt  
+# Hi, I’m @mayank-vashishtt  
 
-**🚀 About Me:**  
+**About Me:**  
 I'm a passionate developer specializing in **Web and App development**, with expertise in **AI/ML, Data Structures and Algorithms (DSA)**, and a budding interest in **Web3 and Blockchain**. I love creating solutions that make a difference and thrive on learning about emerging technologies.  
 
 ---
 
-## 👀 Interests:  
+## Interests:  
 - Artificial Intelligence and Machine Learning  
 - Web Development (React, MERN Stack, NextJS, Docker)  
 - App Development  
@@ -14,22 +14,17 @@ I'm a passionate developer specializing in **Web and App development**, with exp
 
 ---
 
-## 🌱 Currently Learning:  
+## Currently Learning:  
 - Advanced Machine Learning Concepts  
 - Blockchain Development and Smart Contracts  
 - Web Applications  
 
 ---
 
-## 💞️ Open to Collaborate On:  
+## Open to Collaborate On:  
 - AI/ML-powered projects  
 - Web and mobile app development projects  
-- Data-intensive and algorithm-based applications  
-
----
-
-## 😄 Pronouns:  
-He/Him  
+- Data-intensive and algorithm-based applications
 
 ---
 
